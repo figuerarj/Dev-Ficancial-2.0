@@ -11,6 +11,16 @@ O objetivo deste programa é ajudar os desenvolvedores a controlar seus gastos d
 
 ![Screenshot](https://uploaddeimagens.com.br/images/004/405/081/full/Capturar02-2.jpg?1679628019)
 
+
+## Demonstração
+
+Gif com os layouts do projeto.
+
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFiMzJkOWU0NzkyYmI3NTEzN2EyMGRmZjI5NDhkMTNjZWY2OWUzZSZjdD1n/iLRl4VMenLs0ZTkPep/giphy.gif"
+</p>
+
+
 ## Documentação de cores
 
 | Cor             | Hexadecimal                                                  |
